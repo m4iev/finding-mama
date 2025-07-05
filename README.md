@@ -1,6 +1,6 @@
 # Finding Mama
 
-"Finding Mama" is a 2D adventure game created with Unity Engine. It's about a young child on a quest to find her mother, exploring various scenes and interacting with the environment. The story is kinda absurd and trash, but this is one of the early projects that I made when i learn Unity.c
+"Finding Mama" is a 2D adventure game created with Unity Engine. It's about a young child on a quest to find her mother, exploring various scenes and interacting with the environment. The story is kinda absurd and trash, but this is one of the early projects that I made when i learn Unity.
 
 ## Story
 
@@ -11,6 +11,7 @@ The game begins with a simple, yet powerful premise: a child named Aisha is look
 The controls are simple and intuitive:
 
 - Arrow Keys (Left, Right): Move your character.
+- Mouse
 
 The objective is to explore each area thoroughly, talk to everyone you meet, and answer the questions to progress through the story and ultimately find your mother.
 
